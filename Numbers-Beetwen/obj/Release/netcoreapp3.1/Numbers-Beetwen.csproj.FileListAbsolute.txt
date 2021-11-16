@@ -1,0 +1,13 @@
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.exe
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.deps.json
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.runtimeconfig.json
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.runtimeconfig.dev.json
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.dll
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\bin\Release\netcoreapp3.1\Numbers-Beetwen.pdb
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.AssemblyInfoInputs.cache
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.AssemblyInfo.cs
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.csproj.CoreCompileInputs.cache
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.dll
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.pdb
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.genruntimeconfig.cache
+D:\Projects\Programing\Windows\CSharp\Numbers-Beetwen\Numbers-Beetwen\obj\Release\netcoreapp3.1\Numbers-Beetwen.csprojAssemblyReference.cache
